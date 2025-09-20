@@ -46,10 +46,10 @@ The goal was to perform a full-cycle analysis workflow:
 ## 🗂️ Data Model  
 The Power BI report is powered by a structured relational data model that integrates all key aspects of the Olist dataset.  
 - **Fact tables:** Orders, Order Items, Payments, Reviews  
-- **Dimension tables:** Customers, Sellers, Products, Categories, Date, RFM segmentation  
-- **Measures:** Custom DAX calculations for KPIs (Revenue, AOV, Late Deliveries, RFM Segments, etc.)  
+- **Dimension tables:** Customers, Sellers, Products, Categories, custom Date, RFM segmentation  
+- **Measures:** Separate table for custom DAX calculations for KPIs (Revenue, AOV, Late Deliveries, RFM Segments, etc.)  
 
-This modeling approach ensures clean relationships, accurate KPI calculations, and flexible slicing across dashboards.  
+This modeling approach mimics the original Olist data structure and incorporates ready-for-visualization notebook dataframes, ensuring clean relationships, accurate KPI calculations, and flexible slicing across dashboards. 
 
 ---
 
