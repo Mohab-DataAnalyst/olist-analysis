@@ -71,7 +71,7 @@ The goal was to perform a full-cycle analysis workflow:
   <img src="https://github.com/Mohab-DataAnalyst/olist-analysis/blob/main/Data%20Model%20Snapshot.PNG" width="800" height="500"/>
   <img src="https://github.com/Mohab-DataAnalyst/olist-analysis/blob/main/Revenue%20Snapshot.PNG" width="800" height="500"/>
   <img src="https://github.com/Mohab-DataAnalyst/olist-analysis/blob/main/Customers%20Snapshot.PNG" width="800" height="500"/>
-  <img src="" width="800" height="500"/>
+  <img src="https://github.com/Mohab-DataAnalyst/olist-analysis/blob/main/Products%20&%20Sellers%20Snapshot.PNG" width="800" height="500"/>
   <img src="https://github.com/Mohab-DataAnalyst/olist-analysis/blob/main/Logistics%20Snapshot.PNG" width="800" height="500"/>
 </p>
 
