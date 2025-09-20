@@ -35,6 +35,24 @@ The goal was to perform a full-cycle analysis workflow:
 
 ---
 
+## 📓 Notebook Structure  
+- **Importing Libraries & Reading CSVs** – Load datasets and essential libraries (pandas, numpy, matplotlib, seaborn, etc.).  
+- **Data Cleaning & Technical EDA** – Clean raw data, handle missing values, and perform initial exploratory checks to prepare preprocessed datasets.  
+- **Business EDA & Deep Analysis** – Conduct KPI tracking, time & trend analysis, dimensional breakdowns, ranking analysis, customer behavior & RFM analysis, logistics evaluation, and correlation studies.  
+- **Raw Business Insights & Suggestions** – Summarize findings and provide actionable recommendations for improving business performance.
+
+---
+
+### 🗂️ Data Model  
+The Power BI report is powered by a structured relational data model that integrates all key aspects of the Olist dataset.  
+- **Fact tables:** Orders, Order Items, Payments, Reviews  
+- **Dimension tables:** Customers, Sellers, Products, Categories, Date, RFM segmentation  
+- **Measures:** Custom DAX calculations for KPIs (Revenue, AOV, Late Deliveries, RFM Segments, etc.)  
+
+This modeling approach ensures clean relationships, accurate KPI calculations, and flexible slicing across dashboards.  
+
+---
+
 ## 📈 Dashboards
 
 ### 🔹 Revenue Dashboard
@@ -65,6 +83,15 @@ The goal was to perform a full-cycle analysis workflow:
 
 ---
 
+## 💡 Business Insights
+- **Revenue Growth:** Clear upward trend with strong seasonal peaks.  
+- **Customer Loyalty:** Only 3.1% repeat customers, yet 40.8% high-value, highlighting untapped retention opportunities.  
+- **Delivery Performance:** 92% on-time, but 7.6% late deliveries show operational inefficiencies.  
+- **Customer Satisfaction:** Average review score of 4.1, with logistics delays contributing to low ratings.  
+- **Category Performance:** Health & beauty and watches & gifts lead in revenue.  
+
+---
+
 ## Notebook, Data Model, and Dashboards Snapshots
 <p align="center">
   <img src="https://github.com/Mohab-DataAnalyst/olist-analysis/blob/main/Notebook%20Snapshot.PNG" width="800" height="500"/>
@@ -74,13 +101,6 @@ The goal was to perform a full-cycle analysis workflow:
   <img src="https://github.com/Mohab-DataAnalyst/olist-analysis/blob/main/Products%20&%20Sellers%20Snapshot.PNG" width="800" height="500"/>
   <img src="https://github.com/Mohab-DataAnalyst/olist-analysis/blob/main/Logistics%20Snapshot.PNG" width="800" height="500"/>
 </p>
-
-## 💡 Business Insights
-- **Revenue Growth:** Clear upward trend with strong seasonal peaks.  
-- **Customer Loyalty:** Only 3.1% repeat customers, yet 40.8% high-value, highlighting untapped retention opportunities.  
-- **Delivery Performance:** 92% on-time, but 7.6% late deliveries show operational inefficiencies.  
-- **Customer Satisfaction:** Average review score of 4.1, with logistics delays contributing to low ratings.  
-- **Category Performance:** Health & beauty and watches & gifts lead in revenue.  
 
 ---
 
