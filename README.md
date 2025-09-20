@@ -43,7 +43,7 @@ The goal was to perform a full-cycle analysis workflow:
 
 ---
 
-### 🗂️ Data Model  
+## 🗂️ Data Model  
 The Power BI report is powered by a structured relational data model that integrates all key aspects of the Olist dataset.  
 - **Fact tables:** Orders, Order Items, Payments, Reviews  
 - **Dimension tables:** Customers, Sellers, Products, Categories, Date, RFM segmentation  
