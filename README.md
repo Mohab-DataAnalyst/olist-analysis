@@ -41,7 +41,7 @@ The goal was to perform a full-cycle analysis workflow:
 - Revenue & orders trend  
 - Average order value trend  
 - Monthly seasonality analysis  
-- **Slicers:** Category, RFM Segment, State  
+- **Slicers:** Category, RFM Segment, State 
 
 ### 🔹 Customer Dashboard
 - Top customer states  
@@ -61,9 +61,19 @@ The goal was to perform a full-cycle analysis workflow:
 - Top categories by product quantity
 - Best performing categories by revenue  
 - Sellers by review distribution  
-- **Slicers:** Year, Month  
+- **Slicers:** Year, Month
 
 ---
+
+## Notebook, Data Model, and Dashboards Snapshots
+<p align="center">
+  <img src="https://github.com/Mohab-DataAnalyst/olist-analysis/blob/main/Notebook%20Snapshot.PNG" width="800" height="500"/>
+  <img src="https://github.com/Mohab-DataAnalyst/olist-analysis/blob/main/Data%20Model%20Snapshot.PNG" width="800" height="500"/>
+  <img src="https://github.com/Mohab-DataAnalyst/olist-analysis/blob/main/Revenue%20Snapshot.PNG" width="800" height="500"/>
+  <img src="https://github.com/Mohab-DataAnalyst/olist-analysis/blob/main/Customers%20Snapshot.PNG" width="800" height="500"/>
+  <img src="" width="800" height="500"/>
+  <img src="https://github.com/Mohab-DataAnalyst/olist-analysis/blob/main/Logistics%20Snapshot.PNG" width="800" height="500"/>
+</p>
 
 ## 💡 Business Insights
 - **Revenue Growth:** Clear upward trend with strong seasonal peaks.  
