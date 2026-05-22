@@ -1,4 +1,4 @@
-![Logo](https://github.com/Mohab-DataAnalyst/olist-analysis/blob/main/olist.jpg)
+![Logo](https://github.com/Mohab-DataAnalyst/olist-analysis/blob/main/snapshots/olist.jpg)
 # 📊 Olist E-Commerce Full Analysis Pipeline (Excel, Python, Power BI)
 
 ## 🔎 Project Overview
