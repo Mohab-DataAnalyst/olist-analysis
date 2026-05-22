@@ -1,4 +1,4 @@
-![Logo](https://techcrunch.com/wp-content/uploads/2021/04/Olist-HQ-in-Brazil-1.jpg)
+![Logo](https://github.com/Mohab-DataAnalyst/olist-analysis/blob/main/olist.jpg)
 # 📊 Olist E-Commerce Full Analysis Pipeline (Excel, Python, Power BI)
 
 ## 🔎 Project Overview
